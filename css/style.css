@@ -706,7 +706,7 @@ overflow: hidden;
     width: 100%;
     height: 100%;
     /* background: var(--bg-color); */
-    z-index: 98;
+/*     z-index: 98; */
 }
 
 .animate.home-img{
